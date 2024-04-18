@@ -55,5 +55,5 @@
 
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=youngcmm&theme=tokyonight&show_icons=true"  alt=""/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=youngcmm&theme=tokyonight&show_icons=true&count_private=true"  alt=""/>
 </p>
