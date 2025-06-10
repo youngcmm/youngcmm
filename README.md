@@ -4,7 +4,7 @@
   <samp>
     My name is <em>Yang Chen-min</em>. I have recived my B.S. degree in Information Engineering from Wuhan Institute of Technology in 2022.<br/>    
     <br>Currently, I am pursuing my master’s degree at the College of Mathematics and Informatics, South China Agricultural University.</br> 
-<br>My interests include Data Mining、LLM/RAG...</br>
+<br>My interests include LLM、Data Mining...</br>
 <br>Continuously learning, wanting to help the community...</br>
     
 </samp>
